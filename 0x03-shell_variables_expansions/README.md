@@ -1,8 +1,8 @@
-#0x03. Shell, init files, variables and expansions
+# 0x03. Shell, init files, variables and expansions
 
 An introductory project on configuration files, distinguishing between local and global variables, exploring shell expansion, and mastering shell arithmetic.
 
-###Script Tasks:
+### Script Tasks:
 
 * 0-alias - creates an alias for rm * named ls.
 
